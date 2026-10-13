@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893612348607",
+    "project_id": "agro-finder-project",
+    "storage_bucket": "agro-finder-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893612348607:android:a62d94534af7d1c09ee20a",
+        "android_client_info": {
+          "package_name": "com.example.agro_finder_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6buNFot-hcwj5d1kS7v1KTONp6cpYf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
